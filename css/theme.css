@@ -1,12 +1,3 @@
-/*------------------------------------------------------------------
-[Master Stylesheet]
-
-Project:  Umber
-Version:	1.0
-Last change:	30/4/2018 
-Assigned to:	Hau Nguyen
-Primary use:	Open Source
--------------------------------------------------------------------*/
 /*-----------------------------------------------------*/
 /*                   GENERIC                           */
 /*-----------------------------------------------------*/
@@ -69,7 +60,18 @@ p {
         max-width: 1200px;
     }
 }
-
+.logo-header {
+    height: 70px;
+    width: auto;
+  }
+  .logo-footer {
+    height: 50px;
+    width: auto;
+  }
+  .logo-mobile {
+    height: 50px;
+    width: auto;
+  }
 .ps__thumb-y {
     background: #222;
 }

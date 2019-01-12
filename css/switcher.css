@@ -173,3 +173,20 @@
   #switcher .demo-homepage li a img {
     width: 100%;
   }
+  .logo-header {
+    height: 70px;
+    width: auto;
+  }
+  .logo-footer {
+    height: 50px;
+    width: auto;
+  }
+  .logo-mobile {
+    height: 50px;
+    width: auto;
+  }
+  @media (max-width: 768px) {
+    .goaway-mobile {
+      display: hidden;
+    }
+  }

@@ -25,6 +25,18 @@ ul {
 .list-inline-item:not(:last-child) {
   margin: 0;
 }
+.logo-header {
+  height: 70px;
+  width: auto;
+}
+.logo-footer {
+  height: 50px;
+  width: auto;
+}
+.logo-mobile {
+  height: 50px;
+  width: auto;
+}
 
 button {
   background: none;
